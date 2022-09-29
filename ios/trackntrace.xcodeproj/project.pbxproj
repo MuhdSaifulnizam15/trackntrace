@@ -14,6 +14,14 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-trackntrace-trackntraceTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-trackntrace-trackntraceTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		0CEB2054307A4DF08B84E84B /* AvertaStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A34D1FB1E19C492FAD2DF12D /* AvertaStd-Bold.otf */; };
+		7A613BBC6F044B059020B681 /* AvertaStd-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = D501B60A04E34C75B5032B92 /* AvertaStd-Regular.otf */; };
+		3B61B1AF501D40E883633025 /* AvertaStd-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A6B6024760A4CD1A4DAED29 /* AvertaStd-Semibold.otf */; };
+		FD958C4263414C898400343D /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5EBAC0524AEC43B8937E5861 /* OpenSans-Bold.ttf */; };
+		C8AB623DF044409587B80CE2 /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7D5070DEDABF42AAB4CB27DB /* OpenSans-Italic.ttf */; };
+		7FB3E84E209A4E2993336FA6 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D79C97BB7E4D41E3B880B989 /* OpenSans-Light.ttf */; };
+		72A94E1FF86B47DD970CF4EE /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0DBF82A8249D465DA9AB62AB /* OpenSans-Regular.ttf */; };
+		FCC508F859EE491D9E92AF74 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56E70043FBD84372B4278A77 /* OpenSans-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +52,14 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = trackntrace/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-trackntrace-trackntraceTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-trackntrace-trackntraceTests.release.xcconfig"; path = "Target Support Files/Pods-trackntrace-trackntraceTests/Pods-trackntrace-trackntraceTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		A34D1FB1E19C492FAD2DF12D /* AvertaStd-Bold.otf */ = {isa = PBXFileReference; name = "AvertaStd-Bold.otf"; path = "../src/assets/fonts/AvertaStd-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D501B60A04E34C75B5032B92 /* AvertaStd-Regular.otf */ = {isa = PBXFileReference; name = "AvertaStd-Regular.otf"; path = "../src/assets/fonts/AvertaStd-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0A6B6024760A4CD1A4DAED29 /* AvertaStd-Semibold.otf */ = {isa = PBXFileReference; name = "AvertaStd-Semibold.otf"; path = "../src/assets/fonts/AvertaStd-Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5EBAC0524AEC43B8937E5861 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; name = "OpenSans-Bold.ttf"; path = "../src/assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7D5070DEDABF42AAB4CB27DB /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; name = "OpenSans-Italic.ttf"; path = "../src/assets/fonts/OpenSans-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D79C97BB7E4D41E3B880B989 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; name = "OpenSans-Light.ttf"; path = "../src/assets/fonts/OpenSans-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0DBF82A8249D465DA9AB62AB /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		56E70043FBD84372B4278A77 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "OpenSans-SemiBold.ttf"; path = "../src/assets/fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +138,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				51F1AA5A195D411D9CF0BD87 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +164,22 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		51F1AA5A195D411D9CF0BD87 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				A34D1FB1E19C492FAD2DF12D /* AvertaStd-Bold.otf */,
+				D501B60A04E34C75B5032B92 /* AvertaStd-Regular.otf */,
+				0A6B6024760A4CD1A4DAED29 /* AvertaStd-Semibold.otf */,
+				5EBAC0524AEC43B8937E5861 /* OpenSans-Bold.ttf */,
+				7D5070DEDABF42AAB4CB27DB /* OpenSans-Italic.ttf */,
+				D79C97BB7E4D41E3B880B989 /* OpenSans-Light.ttf */,
+				0DBF82A8249D465DA9AB62AB /* OpenSans-Regular.ttf */,
+				56E70043FBD84372B4278A77 /* OpenSans-SemiBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -244,6 +277,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				0CEB2054307A4DF08B84E84B /* AvertaStd-Bold.otf in Resources */,
+				7A613BBC6F044B059020B681 /* AvertaStd-Regular.otf in Resources */,
+				3B61B1AF501D40E883633025 /* AvertaStd-Semibold.otf in Resources */,
+				FD958C4263414C898400343D /* OpenSans-Bold.ttf in Resources */,
+				C8AB623DF044409587B80CE2 /* OpenSans-Italic.ttf in Resources */,
+				7FB3E84E209A4E2993336FA6 /* OpenSans-Light.ttf in Resources */,
+				72A94E1FF86B47DD970CF4EE /* OpenSans-Regular.ttf in Resources */,
+				FCC508F859EE491D9E92AF74 /* OpenSans-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

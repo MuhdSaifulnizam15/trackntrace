@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AvertaStd-Bold.otf",
+      "sha1": "b64f4fd5c561f2496883249f4c5bef8a5fb26f58"
+    },
+    {
+      "path": "src/assets/fonts/AvertaStd-Regular.otf",
+      "sha1": "023e9f538d0bc92290cb8add8d8dda71c2e4491d"
+    },
+    {
+      "path": "src/assets/fonts/AvertaStd-Semibold.otf",
+      "sha1": "23e344db5a782b25f40467ab3ab3c79658b9ce6c"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "b7f844e3fbc592719750956a7e9a19f0ede62c78"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "53c332cf06b1b7ec3314e13c71eb0caaa12f4ded"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Light.ttf",
+      "sha1": "bef371c2ba3ac8cc2ef276a65cc3be46414d1ffd"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "b334209f43426374b709e42e3185dc46478a96ba"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "45974cf9acbd1be118f2b426c7cfab33ee584e3c"
+    }
+  ]
+}
