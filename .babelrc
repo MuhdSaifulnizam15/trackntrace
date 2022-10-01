@@ -20,7 +20,8 @@
         "alias": {
           "@navigation": "./src/navigations",
           "@screens": "./src/screens",
-          "@assets": "./src/assets"
+          "@assets": "./src/assets",
+          "@components": "./src/components"
         }
       }
     ]

@@ -16,6 +16,7 @@ import SendPayment from '@screens/home/SendPayment';
 import SendSummary from '@screens/home/SendSummary';
 import Track from '@screens/home/Track';
 import TrackStatus from '@screens/home/TrackStatus';
+import Dashboard from '@screens/home/Dashboard';
 
 const Stack = createNativeStackNavigator();
 
@@ -25,16 +26,17 @@ const Navigation = () => {
     <Stack.Navigator
       screenOptions={{ headerShown: false }}
       initialRouteName="Login">
-      { isLoggedIn ? (
-        <>
+      {/* { !isLoggedIn ? (
+        <> */}
           <Stack.Screen name="Login" component={Login} />
           <Stack.Screen name="Register" component={Register} />
           <Stack.Screen name="ResetPassword" component={ResetPassword} />
           <Stack.Screen name="ForgotPassword" component={ForgotPassword} />
-        </>
+        {/* </>
       ) : (
-        <>
-          <Stack.Screen name="Dashboard" component={Tabs} />
+        <> */}
+          {/* <Stack.Screen name="Home" component={Tabs} /> */}
+          <Stack.Screen name="Dashboard" component={Dashboard} />
           <Stack.Screen name="Account" component={Account} />
           <Stack.Screen name="AccountDetail" component={AccountDetail} />
           <Stack.Screen name="MyDelivery" component={MyDelivery} />
@@ -43,8 +45,8 @@ const Navigation = () => {
           <Stack.Screen name="SendSummary" component={SendSummary} />
           <Stack.Screen name="Track" component={Track} />
           <Stack.Screen name="TrackStatus" component={TrackStatus} />
-        </>
-      )}
+        {/* </>
+      )} */}
     </Stack.Navigator>
   )
 }
